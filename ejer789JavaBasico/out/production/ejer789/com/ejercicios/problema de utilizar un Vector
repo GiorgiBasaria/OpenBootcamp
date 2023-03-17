@@ -1,0 +1,3 @@
+El problema de utilizar un Vector con la capacidad por defecto si tuviésemos 1000 elementos para ser añadidos es
+que el Vector tendría que redimensionarse muchas veces a medida que se van añadiendo elementos, lo que resulta en
+una pérdida de rendimiento. Es más eficiente especificar una capacidad inicial adecuada al tamaño estimado del Vector.
